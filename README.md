@@ -26,7 +26,7 @@ To set up CryptAura-Watcher on your local machine, follow these steps:
 1. **Clone the Repository**: Clone the CryptAura-Watcher repository from GitHub to your local machine.
    
    ```
-   git clone https://github.com/yourusername/CryptAura-Watcher.git
+   git clone https://github.com/adityacode07/CryptAura-Watcher.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn.
