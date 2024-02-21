@@ -1,6 +1,8 @@
 # CryptAura-Watcher
 
 CryptAura-Watcher is a cross-platform mobile app designed to help users track current market prices and currency price changes over the last 14 days. With CryptAura-Watcher, users can stay informed about the latest trends in the cryptocurrency market, enabling them to make more informed decisions about their investments.
+![20240222-023210](https://github.com/adityacode07/CryptAura-Watcher/assets/121475921/974e96fb-086f-4630-8ca7-30cd817e4cff)
+![20240222-023159](https://github.com/adityacode07/CryptAura-Watcher/assets/121475921/fb8c0708-bfbe-4621-80e4-79b608786696)
 
 ## Features
 
